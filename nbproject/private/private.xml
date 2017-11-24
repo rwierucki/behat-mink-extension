@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rafal.wierucki/QA/MinkExtension/features/drupal_login.feature</file>
+            <file>file:/home/rafal.wierucki/QA/MinkExtension/behat.yml.dist</file>
+            <file>file:/home/rafal.wierucki/QA/MinkExtension/src/Behat/MinkExtension/Context/MinkContext.php</file>
+            <file>file:/home/rafal.wierucki/QA/MinkExtension/features/toyota.feature</file>
+            <file>file:/home/rafal.wierucki/QA/MinkExtension/build.php</file>
+            <file>file:/home/rafal.wierucki/QA/MinkExtension/features/search.feature</file>
+        </group>
+    </open-files>
+</project-private>
